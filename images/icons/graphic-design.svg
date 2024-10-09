@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve" width="512px" height="512px" class=""><g><path style="fill:#3DD0F2" d="M52.966,114.801H512v353.103H26.483C11.855,467.904,0,456.049,0,441.421l0,0  c0-14.627,11.855-26.483,26.483-26.483h26.483V114.801z" data-original="#90D1F3" class="" data-old_color="#3dd0f2"/><polygon style="fill:#FFFFFF" points="158.897,238.387 211.862,291.352 256,247.214 317.793,309.008 317.793,158.939   97.103,158.939 97.103,291.352 " data-original="#FFFFFF" class=""/><polygon style="fill:#484F51" points="97.103,291.352 158.897,238.387 211.862,291.352 256,247.214 317.793,309.008   317.793,344.318 97.103,344.318 " data-original="#269BD8" class="" data-old_color="#596366"/><g>
+	<rect x="361.931" y="388.5" style="fill:#070706" width="105.931" height="35.31" data-original="#FCBF29" class="" data-old_color="#FCBF29"/>
+	<circle style="fill:#070706" cx="211.862" cy="211.86" r="17.655" data-original="#FCBF29" class="" data-old_color="#FCBF29"/>
+</g><path style="fill:#070706" d="M0,441.421L0,441.421c0-14.627,11.855-26.483,26.483-26.483h26.483V61.835H26.483  C11.855,61.835,0,73.691,0,88.318V441.421z" data-original="#0D529E" class="active-path" data-old_color="#FFFFFF"/><g>
+	<rect x="388.414" y="194.205" style="fill:#F8F5F4" width="17.655" height="17.655" data-original="#591E00" class="" data-old_color="#EDE9E7"/>
+	<rect x="423.724" y="194.205" style="fill:#F8F5F4" width="52.966" height="17.655" data-original="#591E00" class="" data-old_color="#EDE9E7"/>
+	<rect x="353.103" y="229.515" style="fill:#F8F5F4" width="123.586" height="17.655" data-original="#591E00" class="" data-old_color="#EDE9E7"/>
+	<rect x="353.103" y="264.825" style="fill:#F8F5F4" width="123.586" height="17.655" data-original="#591E00" class="" data-old_color="#EDE9E7"/>
+	<rect x="353.103" y="300.224" style="fill:#F8F5F4" width="123.586" height="17.655" data-original="#591E00" class="" data-old_color="#EDE9E7"/>
+	<rect x="353.103" y="335.534" style="fill:#F8F5F4" width="88.276" height="17.655" data-original="#591E00" class="" data-old_color="#EDE9E7"/>
+	<rect x="132.414" y="379.672" style="fill:#F8F5F4" width="194.207" height="17.655" data-original="#591E00" class="" data-old_color="#EDE9E7"/>
+	<rect x="88.276" y="414.983" style="fill:#F8F5F4" width="238.345" height="17.655" data-original="#591E00" class="" data-old_color="#EDE9E7"/>
+	<rect x="88.276" y="379.672" style="fill:#F8F5F4" width="17.655" height="17.655" data-original="#591E00" class="" data-old_color="#EDE9E7"/>
+</g><path style="fill:#070706" d="M450.207,158.939v-22.396c21.804-19.5,23.667-52.983,4.167-74.787  c-19.5-21.804-52.983-23.676-74.787-4.175c-21.804,19.5-23.667,52.983-4.167,74.787c1.306,1.465,2.701,2.86,4.167,4.167v22.396  h70.621V158.939z" data-original="#FCBF29" class="" data-old_color="#FCBF29"/><g>
+	<rect x="406.069" y="123.672" style="fill:#FFFFFF" width="17.655" height="35.31" data-original="#FFFFFF" class=""/>
+	<path style="fill:#FFFFFF" d="M414.897,132.456c-2.339,0-4.59-0.927-6.241-2.586l-26.483-26.483l12.482-12.482l20.242,20.242   l20.242-20.242l12.482,12.482l-26.483,26.483C419.487,131.52,417.236,132.456,414.897,132.456z" data-original="#FFFFFF" class=""/>
+</g><rect x="353.103" y="150.067" style="fill:#F8F5F4" width="123.586" height="17.655" data-original="#591E00" class="" data-old_color="#EDE9E7"/></g> </svg>
