@@ -610,7 +610,7 @@ body:after {
   position: relative; }
   .circle-bg:after {
     width: 300px;
-    height: 300px;
+/*     height: 300px; */
     content: "";
     z-index: -1;
     border-radius: 50%;
